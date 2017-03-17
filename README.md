@@ -33,7 +33,5 @@ The purpose of this page is to list the various final projects which I completed
 * [Github Pages](http://azmimr.github.io/Practical_Machine_Learning_Project/): Web page version of the solution.
 
 #### Developing Data Products
-* To be completed (expected May 2016)
+* Completed August 2016
 
-#### Capstone Project
-* To be started
